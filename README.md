@@ -22,7 +22,7 @@ Assumed Directories:
 	
 LINKs:  
 	
-irFARTpull main - https://github.com/n3l5/irMyzepull
+irMyzepull main - https://github.com/n3l5/irMyzepull
 	
 Links to required tools:
 - Magent.exe - via Mandiant Redline collector package - https://www.mandiant.com/resources/download/redline
