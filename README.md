@@ -1,9 +1,8 @@
-
 IR Memoryze pull (irMyzepull)
 
 DESCRIPTION:
 
-irMyzepull is a PowerShell script utilized to pull artifacts from a live system over the network. Tested on Win7 & Win8. (should work on WinXP) 
+irMyzepull is a PowerShell script utilized to pull artifacts from a live system over the network. Tested on Windows 7, 8, Server 2008, and Server 2012 systems. 
 
 It utilizes the Mandiant Memoryze tool to "audit and collect all running processes and drivers from memory, file system metadata, registry data, event logs, network information, services, tasks, and web history" (if configured via .xml config file)
 
